@@ -1,0 +1,13 @@
+.scroll{
+	position: fixed;
+	background-color: transparent;
+	width: 840px;
+	height: 730px;
+	margin-right: 10px;
+	margin-left: 10px;
+	overflow-x: hidden;
+	overflow-y: auto;
+	text-align:justify;
+	left: 405px;
+	top: 110px;
+}
